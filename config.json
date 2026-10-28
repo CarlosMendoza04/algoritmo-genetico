@@ -1,0 +1,12 @@
+{
+  "tamano_poblacion": 50,
+  "generaciones": 100,
+  "prob_cruce": 0.8,
+  "prob_mutacion": 0.01,
+  "semilla": 42,
+  "seleccion": "torneo",
+  "tipo_cruce": "un_punto",
+  "k_torneo": 3,
+  "elitismo": 1,
+  "bits": 22
+}
